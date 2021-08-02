@@ -7,10 +7,10 @@
 * Version: 1.0.4 
 
 * Vulnerable file:user.php 
-![iamge]()  
+![iamge](https://github.com/BigTiger2020/SEMCMS/blob/main/user.png)  
 * Vulnerable file:upload.php  
-![iamge]()  
+![iamge](https://github.com/BigTiger2020/SEMCMS/blob/main/upload.png)  
 * File Upload:  
-![iamge]()    
+![iamge](https://github.com/BigTiger2020/SEMCMS/blob/main/up.png)    
 * Get shell:  
-![iamge]() 
+![iamge](https://github.com/BigTiger2020/SEMCMS/blob/main/shell.png) 
